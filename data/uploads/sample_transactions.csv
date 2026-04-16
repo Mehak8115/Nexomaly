@@ -1,0 +1,101 @@
+user_id,amount,merchant,category,location,hour,day_of_week,is_weekend,is_night,is_fraud
+USR-0001,45.50,Starbucks,food,New York US,9,1,0,0,0
+USR-0002,120.00,Amazon,retail,San Francisco US,14,2,0,0,0
+USR-0003,18500.00,Casino Royal,gambling,offshore,2,6,1,1,1
+USR-0004,89.99,Netflix,entertainment,Chicago US,20,3,0,0,0
+USR-0005,9200.00,Wire Transfer Co,other,anonymous,3,0,0,1,1
+USR-0006,34.00,McDonald's,food,Austin US,12,4,0,0,0
+USR-0007,4400.00,CryptoBridge,crypto,offshore,1,5,1,1,1
+USR-0008,250.00,Delta Airlines,travel,Miami US,16,2,0,0,0
+USR-0009,8500.00,PawnShop Plus,other,Unknown Location,3,6,1,1,1
+USR-0010,67.00,Walmart,retail,Seattle US,11,1,0,0,0
+USR-0011,15000.00,Casino Royal,gambling,anonymous,23,5,1,1,1
+USR-0012,32.00,Spotify,entertainment,Boston US,18,3,0,0,0
+USR-0013,5600.00,LoanShark Finance,other,offshore,4,0,0,1,1
+USR-0014,180.00,Best Buy,electronics,New York US,13,2,0,0,0
+USR-0015,78.00,Uber,retail,Chicago US,8,1,0,0,0
+USR-0016,22000.00,CryptoBridge,crypto,anonymous,2,6,1,1,1
+USR-0017,55.00,Costco,retail,Seattle US,15,4,0,0,0
+USR-0018,3200.00,Unknown Vendor,other,Unknown Location,22,0,0,1,1
+USR-0019,420.00,Hilton Hotels,travel,Miami US,10,3,0,0,0
+USR-0020,12.00,Starbucks,food,Austin US,7,2,0,0,0
+USR-0021,7800.00,Wire Transfer Co,other,offshore,3,1,0,1,1
+USR-0022,95.00,Apple Store,electronics,San Francisco US,14,4,0,0,0
+USR-0023,340.00,Amazon,retail,New York US,11,2,0,0,0
+USR-0024,19500.00,Casino Royal,gambling,offshore,1,6,1,1,1
+USR-0025,28.00,Netflix,entertainment,Chicago US,21,5,1,0,0
+USR-0026,6700.00,PawnShop Plus,other,anonymous,4,0,0,1,1
+USR-0027,150.00,Target,retail,Boston US,13,3,0,0,0
+USR-0028,89.00,Shell Gas,retail,Miami US,8,1,0,0,0
+USR-0029,11000.00,CryptoBridge,crypto,Unknown Location,2,5,1,1,1
+USR-0030,210.00,Walmart,retail,Seattle US,16,2,0,0,0
+USR-0031,4.99,Spotify,entertainment,Austin US,19,4,0,0,0
+USR-0032,28000.00,Casino Royal,gambling,offshore,3,6,1,1,1
+USR-0033,75.00,Uber,retail,New York US,9,1,0,0,0
+USR-0034,9800.00,Wire Transfer Co,other,anonymous,1,0,0,1,1
+USR-0035,320.00,Delta Airlines,travel,Chicago US,15,2,0,0,0
+USR-0036,450.00,Best Buy,electronics,San Francisco US,12,3,0,0,0
+USR-0037,5100.00,LoanShark Finance,other,offshore,23,5,1,1,1
+USR-0038,22.00,McDonald's,food,Miami US,12,1,0,0,0
+USR-0039,13500.00,Unknown Vendor,other,Unknown Location,4,6,1,1,1
+USR-0040,88.00,Amazon,retail,Boston US,14,2,0,0,0
+USR-0041,7200.00,PawnShop Plus,other,anonymous,2,0,0,1,1
+USR-0042,160.00,Apple Store,electronics,Seattle US,11,4,0,0,0
+USR-0043,35.00,Starbucks,food,Austin US,8,1,0,0,0
+USR-0044,16800.00,CryptoBridge,crypto,offshore,3,6,1,1,1
+USR-0045,290.00,Hilton Hotels,travel,New York US,17,3,0,0,0
+USR-0046,6.99,Netflix,entertainment,Chicago US,20,4,0,0,0
+USR-0047,4900.00,Wire Transfer Co,other,anonymous,1,5,1,1,1
+USR-0048,199.00,Target,retail,Miami US,13,2,0,0,0
+USR-0049,24000.00,Casino Royal,gambling,offshore,2,6,1,1,1
+USR-0050,44.00,Walmart,retail,Boston US,10,1,0,0,0
+USR-0051,8100.00,LoanShark Finance,other,Unknown Location,4,0,0,1,1
+USR-0052,125.00,Shell Gas,retail,Seattle US,7,3,0,0,0
+USR-0053,380.00,Amazon,retail,San Francisco US,15,2,0,0,0
+USR-0054,6600.00,PawnShop Plus,other,offshore,3,5,1,1,1
+USR-0055,72.00,Uber,retail,Austin US,9,1,0,0,0
+USR-0056,17500.00,CryptoBridge,crypto,anonymous,2,6,1,1,1
+USR-0057,540.00,Delta Airlines,travel,New York US,14,4,0,0,0
+USR-0058,15.00,McDonald's,food,Chicago US,12,2,0,0,0
+USR-0059,5400.00,Unknown Vendor,other,Unknown Location,1,0,0,1,1
+USR-0060,265.00,Best Buy,electronics,Miami US,13,3,0,0,0
+USR-0061,9600.00,Wire Transfer Co,other,offshore,4,6,1,1,1
+USR-0062,48.00,Spotify,entertainment,Boston US,19,1,0,0,0
+USR-0063,21000.00,Casino Royal,gambling,anonymous,3,5,1,1,1
+USR-0064,310.00,Hilton Hotels,travel,Seattle US,16,2,0,0,0
+USR-0065,7400.00,LoanShark Finance,other,offshore,2,0,0,1,1
+USR-0066,92.00,Amazon,retail,Austin US,11,4,0,0,0
+USR-0067,4300.00,PawnShop Plus,other,Unknown Location,23,6,1,1,1
+USR-0068,18.00,Starbucks,food,San Francisco US,8,1,0,0,0
+USR-0069,12800.00,CryptoBridge,crypto,anonymous,1,5,1,1,1
+USR-0070,175.00,Target,retail,New York US,14,3,0,0,0
+USR-0071,8900.00,Wire Transfer Co,other,offshore,3,0,0,1,1
+USR-0072,56.00,Shell Gas,retail,Chicago US,7,2,0,0,0
+USR-0073,26000.00,Casino Royal,gambling,offshore,2,6,1,1,1
+USR-0074,430.00,Apple Store,electronics,Miami US,12,4,0,0,0
+USR-0075,6200.00,Unknown Vendor,other,anonymous,4,5,1,1,1
+USR-0076,83.00,Uber,retail,Boston US,9,1,0,0,0
+USR-0077,14200.00,LoanShark Finance,other,Unknown Location,1,0,0,1,1
+USR-0078,240.00,Walmart,retail,Seattle US,15,3,0,0,0
+USR-0079,5800.00,PawnShop Plus,other,offshore,23,6,1,1,1
+USR-0080,37.00,Netflix,entertainment,Austin US,20,2,0,0,0
+USR-0081,10500.00,CryptoBridge,crypto,anonymous,3,5,1,1,1
+USR-0082,195.00,Delta Airlines,travel,San Francisco US,17,4,0,0,0
+USR-0083,7700.00,Wire Transfer Co,other,offshore,2,0,0,1,1
+USR-0084,62.00,Amazon,retail,New York US,11,1,0,0,0
+USR-0085,23000.00,Casino Royal,gambling,anonymous,4,6,1,1,1
+USR-0086,145.00,Best Buy,electronics,Chicago US,13,3,0,0,0
+USR-0087,5300.00,LoanShark Finance,other,Unknown Location,1,5,1,1,1
+USR-0088,29.00,Starbucks,food,Miami US,8,2,0,0,0
+USR-0089,9100.00,PawnShop Plus,other,offshore,3,0,0,1,1
+USR-0090,285.00,Hilton Hotels,travel,Boston US,16,4,0,0,0
+USR-0091,6900.00,Unknown Vendor,other,anonymous,2,6,1,1,1
+USR-0092,71.00,Walmart,retail,Seattle US,10,1,0,0,0
+USR-0093,15600.00,CryptoBridge,crypto,offshore,1,5,1,1,1
+USR-0094,390.00,Target,retail,Austin US,14,3,0,0,0
+USR-0095,8300.00,Wire Transfer Co,other,Unknown Location,4,0,0,1,1
+USR-0096,43.00,Uber,retail,San Francisco US,9,2,0,0,0
+USR-0097,19800.00,Casino Royal,gambling,anonymous,3,6,1,1,1
+USR-0098,220.00,Apple Store,electronics,New York US,12,4,0,0,0
+USR-0099,7100.00,LoanShark Finance,other,offshore,2,5,1,1,1
+USR-0100,58.00,McDonald's,food,Chicago US,11,1,0,0,0
